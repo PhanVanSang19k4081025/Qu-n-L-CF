@@ -1,0 +1,17 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.ResolveComReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Chitiethoadon.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Form1.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Sudungdichvu.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.DoanhThu.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\BLL_QLBH.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\DAL_QLBH.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\BLL_QLBH.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Quanlybanhang\Quanlybanhang\bin\Debug\DAL_QLBH.pdb
